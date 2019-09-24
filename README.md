@@ -1,4 +1,4 @@
-Looplab Landing page created with bootstrap
+Looplab fully responsive landing page created with bootstrap
 
 See the website here:
 
